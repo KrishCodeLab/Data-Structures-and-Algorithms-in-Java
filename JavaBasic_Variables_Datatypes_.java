@@ -27,13 +27,13 @@ public class JavaBasic_Variables_Datatypes_ {
 
     // Data Types :
     // Primitive Data Type :char, Byte,Short,int,float,boolean,long,double
-    int number = 121; // 4 byte
-    String str = "Krishna"; // 2 byte
-    byte bit = 127; // 1 byte
-    short number2 = 540; // 2 byte
-    float number3 = 9; // 4 bytte
-    double number4 = 99.99999999999; // 8 byte
-    long number5 = 12849933; // 8 byte
+    // int number = 121; // 4 byte
+    // String str = "Krishna"; // 2 byte
+    // byte bit = 127; // 1 byte
+    // short number2 = 540; // 2 byte
+    // float number3 = 9; // 4 bytte
+    // double number4 = 99.99999999999; // 8 byte
+    // long number5 = 12849933; // 8 byte
 
     // Non Primitive Data Type : Array,String,object,Class,Interface
 
