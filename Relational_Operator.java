@@ -32,7 +32,7 @@ public class Relational_Operator {
     System.out.println("Is number2 <= number4 " + (number2 <= number4));
     System.out.println("Is number1 != number2 " + (number1 != number2));
     System.out.println("Is number2 >= number3 " + (number2 >= number3));
-    System.out.println("Is number2 == number2 " + (number2 == number2));
+    // System.out.println("Is number2 == number2 " + (number2 == number2));
 
     sc.close();
   }
