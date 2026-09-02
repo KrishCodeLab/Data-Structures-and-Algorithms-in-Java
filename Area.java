@@ -21,5 +21,7 @@ public class Area {
 
     System.out.println("Area of Square :" + area_of_square);
     System.out.println("Area of Rectangle :" + area_of_rectanlge);
+
+    sc.close();
   }
 }
