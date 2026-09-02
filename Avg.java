@@ -18,5 +18,7 @@ public class Avg {
     int avg = (num1 + num2 + num3) / 3;
 
     System.out.println("Average : " + avg);
+
+    sc.close();
   }
 }
