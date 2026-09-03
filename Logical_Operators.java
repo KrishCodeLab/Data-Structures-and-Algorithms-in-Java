@@ -1,7 +1,5 @@
 import java.util.*;
 
-import javax.swing.text.StyledEditorKit;
-
 public class Logical_Operators {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
