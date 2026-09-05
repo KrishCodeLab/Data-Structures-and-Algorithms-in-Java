@@ -38,7 +38,7 @@ public class SwitchStatement {
       default:
         System.out.println("Unknown fruit");
     }
-
+    sc.close();
     // Working of switch Statement :
     // The expression is evaluated once.
     // Its value is compared with each case.
