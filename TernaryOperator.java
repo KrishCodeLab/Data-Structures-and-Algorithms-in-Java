@@ -18,6 +18,6 @@ public class TernaryOperator {
     System.out.println(number + " is even or odd");
     String evenodd = (number % 2 == 0) ? "Even" : "odd";
     System.out.println("The number is " + evenodd);
-
+    sc.close();
   }
 }
