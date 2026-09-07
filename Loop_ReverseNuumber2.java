@@ -13,6 +13,6 @@ public class Loop_ReverseNuumber2 {
       System.out.print(last_digit);
       number /= 10;
     }
-
+    sc.close();
   }
 }
