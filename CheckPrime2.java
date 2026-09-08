@@ -30,6 +30,7 @@ public class CheckPrime2 {
     } else {
       System.out.println("The number is  Prime number ");
     }
+    sc.close();
 
   }
 }
