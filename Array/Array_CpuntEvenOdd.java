@@ -2,7 +2,7 @@ package Array;
 
 public class Array_CpuntEvenOdd {
   public static void CountEvenOdd(int arr[]) {
-    // Count the number of even and odd elements
+    // Count the even and odd elements
     int Even = 0;
     int Odd = 0;
 
