@@ -10,6 +10,7 @@ public class Array_PairsInArray {
         count++;
       }
     }
+    System.out.println("Total number of pairs = " + count);
   }
 
   public static void main(String[] args) {
