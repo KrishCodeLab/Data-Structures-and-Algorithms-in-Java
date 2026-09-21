@@ -1,6 +1,6 @@
 package Array;
 
-import java.util.*;
+// import java.util.*;
 
 public class Array_BinarySearch {
   public static void BinarySearch(int n[], int x) {
