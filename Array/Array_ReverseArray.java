@@ -1,4 +1,3 @@
-package Array;
 
 public class Array_ReverseArray {
   public static void ReverseArray(int n[]) {

@@ -1,4 +1,4 @@
-package Array;
+// package Array;
 
 public class Array_Poduct {
   public static int Product(int num[]) {

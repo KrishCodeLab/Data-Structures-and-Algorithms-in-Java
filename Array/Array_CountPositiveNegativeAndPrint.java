@@ -1,4 +1,3 @@
-package Array;
 
 public class Array_CountPositiveNegativeAndPrint {
   public static void CountPostiveNegtive(int arr[]) {

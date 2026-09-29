@@ -1,0 +1,92 @@
+📚 Subarray & Array-Sum DSA Questions
+🟢 Level 1 — Basic Subarray Practice
+#	Question	What you have to do
+1	Print All Subarrays	Print every possible contiguous subarray.
+2	Sum of Every Subarray	Find and print the sum of each possible subarray.
+3	Maximum Sum Subarray ⭐	Find the contiguous subarray having the largest sum.
+4	Minimum Sum Subarray	Find the contiguous subarray having the smallest sum.
+5	Maximum Product Subarray	Find the contiguous subarray whose product is maximum.
+6	Minimum Product Subarray	Find the contiguous subarray whose product is minimum.
+🟡 Level 2 — Fixed Size Subarrays
+#	Question	What you have to do
+7	Maximum Sum Subarray of Size K	Find the maximum sum among subarrays containing exactly K elements.
+8	Minimum Sum Subarray of Size K	Find the minimum sum among subarrays containing exactly K elements.
+9	Maximum Average Subarray of Size K	Find the subarray of exactly K elements having the highest average.
+10	Minimum Average Subarray of Size K	Find the subarray of exactly K elements having the lowest average.
+11	Print All Subarrays of Size K	Print only contiguous subarrays containing exactly K elements.
+
+Example:
+
+arr = {2, 1, 5, 1, 3, 2}
+K = 3
+
+Possible subarrays:
+
+{2,1,5}
+{1,5,1}
+{5,1,3}
+{1,3,2}
+🟠 Level 3 — Subarray With Conditions
+#	Question	What you have to do
+12	Count Subarrays With Sum K	Count how many contiguous subarrays have sum exactly K.
+13	Print Subarrays With Sum K	Print all subarrays whose sum is exactly K.
+14	Find Subarray With Sum K	Find whether a contiguous subarray with sum K exists.
+15	Longest Subarray With Sum K	Find the longest contiguous subarray whose sum is K.
+16	Shortest Subarray With Sum K	Find the shortest contiguous subarray whose sum is K.
+17	Count Subarrays With Sum Greater Than K	Count subarrays whose sum is greater than K.
+18	Count Subarrays With Sum Less Than K	Count subarrays whose sum is less than K.
+🔵 Level 4 — Maximum/Minimum Variations
+#	Question	What you have to do
+19	Print Maximum Sum Subarray	Find the maximum-sum subarray and print its elements.
+20	Maximum Sum + Starting/Ending Index	Find maximum sum and the indexes where that subarray starts and ends.
+21	Maximum Sum Subarray With At Least K Elements	Find the largest sum where the subarray contains at least K elements.
+22	Maximum Sum Subarray With Exactly K Elements	Find the largest sum where the subarray contains exactly K elements.
+23	Maximum Sum of Two Non-Overlapping Subarrays	Find two separate subarrays whose combined sum is maximum.
+24	Minimum Sum of Two Non-Overlapping Subarrays	Find two separate subarrays whose combined sum is minimum.
+🔥 Important Array Questions Related to This
+
+These aren't exactly subarray-sum problems, but they use similar array-thinking:
+
+#	Question	What you have to do
+25	Find Largest Element	Find the biggest element in the array.
+26	Find Smallest Element	Find the smallest element.
+27	Second Largest Element	Find the second-largest distinct element.
+28	Reverse an Array	Reverse the elements using swapping/two pointers.
+29	Count Even and Odd Elements	Count how many elements are even and odd.
+30	Find Duplicate Elements	Find elements appearing more than once.
+31	Remove Duplicates	Create an array containing only unique elements.
+32	Find Missing Number	Find the missing number from a sequence.
+33	Find Pair With Given Sum	Find two elements whose sum equals a target.
+34	Find Triplet With Given Sum	Find three elements whose sum equals a target.
+35	Find Maximum Difference	Find the maximum difference between two elements under a given index condition.
+🧠 Concepts these questions teach
+Basic loops
+    ↓
+Nested loops
+    ↓
+i = start
+j = end
+k = calculate
+    ↓
+Subarrays
+    ↓
+Maximum / Minimum
+    ↓
+Fixed-size window
+    ↓
+Sliding Window
+    ↓
+Prefix Sum
+    ↓
+Kadane's Algorithm
+⭐ Especially practice these 10 first
+1. Print All Subarrays
+2. Sum of Every Subarray
+3. Maximum Sum Subarray
+4. Minimum Sum Subarray
+5. Maximum Sum Subarray of Size K
+6. Count Subarrays With Sum K
+7. Longest Subarray With Sum K
+8. Print Maximum Sum Subarray
+9. Maximum Sum + Starting/Ending Index
+10. Kadane's Algorithm

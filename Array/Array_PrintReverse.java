@@ -1,4 +1,3 @@
-package Array;
 
 public class Array_PrintReverse {
   public static void Reverse(int n[]) {

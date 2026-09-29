@@ -1,4 +1,3 @@
-package Array;
 
 public class Array_PairsInArray {
   public static void printAllPairs(int arr[]) {

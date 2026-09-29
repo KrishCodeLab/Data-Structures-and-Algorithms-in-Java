@@ -1,4 +1,3 @@
-package Array;
 
 public class Array_CpuntEvenOdd {
   public static void CountEvenOdd(int arr[]) {

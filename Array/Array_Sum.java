@@ -1,4 +1,3 @@
-package Array;
 
 public class Array_Sum {
   public static int sumOfArray(int num[]) {
