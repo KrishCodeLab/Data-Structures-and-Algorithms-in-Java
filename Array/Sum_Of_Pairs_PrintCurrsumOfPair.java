@@ -1,5 +1,5 @@
 
-public class Array_CurrSum_And_MaxSum {
+public class Sum_Of_Pairs_PrintCurrsumOfPair {
   public static void PrintMaxSumofSubArray(int arr[]) {
     // Initialized maxsum=0 to calculate maxsum after every iteration
     int maxsum = 0;
