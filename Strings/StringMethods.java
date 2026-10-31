@@ -19,6 +19,6 @@ public class StringMethods {
     // equals and equlasIgnoreCase()
     System.out.println(str.equals(str.toLowerCase()));
     System.out.println(str.equalsIgnoreCase(str.toLowerCase()));
-
+    sc.close();
   }
 }

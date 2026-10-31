@@ -16,5 +16,7 @@ public class IntroductionToString {
     String LanguageName = sc.nextLine();
     System.out.println(LanguageName);
 
+    sc.close();
+
   }
 }
