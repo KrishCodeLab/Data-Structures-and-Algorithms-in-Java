@@ -7,20 +7,17 @@ public class CountVowelsAndConsonats {
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter String ");
     String str = sc.nextLine();
+    // Counters
     int vowel = 0;
     int consonants = 0;
-    int space = 0;
+
     for (int i = 0; i < str.length(); i++) {
+      // Converting each character of string to lowercase to compare it in condition
       char ch = Character.toLowerCase(str.charAt(i));
-      // if (str.charAt(i) == 'a' || str.charAt(i) == 'e' || str.charAt(i) == 'i' ||
-      // str.charAt(i) == 'o' || str.charAt(i) == 'u') {
-      // vowel += 1;
-      // } else {
-      // consonants += 1;
-      // }
+
       if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
         vowel += 1;
-      } else if (Character.isLetter(ch)) {
+      } else if (Character.isLetter(ch)) { // Checking the char is alphabet or not
         consonants += 1;
       }
     }
