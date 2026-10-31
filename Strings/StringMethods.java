@@ -2,8 +2,6 @@ package Strings;
 
 import java.util.*;
 
-import javax.swing.text.html.StyleSheet;
-
 public class StringMethods {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
@@ -21,5 +19,6 @@ public class StringMethods {
     // equals and equlasIgnoreCase()
     System.out.println(str.equals(str.toLowerCase()));
     System.out.println(str.equalsIgnoreCase(str.toLowerCase()));
+
   }
 }
