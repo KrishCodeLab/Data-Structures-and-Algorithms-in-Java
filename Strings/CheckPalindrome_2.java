@@ -21,5 +21,6 @@ public class CheckPalindrome_2 {
     } else {
       System.out.println("Not Palindrome");
     }
+    sc.close();
   }
 }
