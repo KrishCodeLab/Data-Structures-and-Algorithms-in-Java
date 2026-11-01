@@ -34,5 +34,6 @@ public class RemoveSpaces {
       }
     }
     System.out.println("toCharArray Approach : " + final_str);
+    sc.close();
   }
 }
