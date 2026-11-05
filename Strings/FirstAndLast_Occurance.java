@@ -27,6 +27,7 @@ public class FirstAndLast_Occurance {
         break;
       }
     }
+
     sc.close();
   }
 }
