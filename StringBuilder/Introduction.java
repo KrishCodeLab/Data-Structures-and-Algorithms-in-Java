@@ -9,7 +9,7 @@ public class Introduction {
     // creating a new string object every time you make change.
     StringBuilder sb = new StringBuilder("Krushna Govardhane");
     StringBuilder sb2 = new StringBuilder(" ");
-    StringBuilder sb3 = new StringBuilder(100);
+    // StringBuilder sb3 = new StringBuilder(100);
     System.out.println(sb);
     System.out.println(sb2);
     System.out.println("Enter String ");
