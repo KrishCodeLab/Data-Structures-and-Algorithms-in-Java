@@ -5,7 +5,7 @@ import java.util.*;
 public class Row_Sum {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    // Find Min element of 2D array
+    // Calculate sum of each row
     System.out.println("Enter rows : ");
     int rows = sc.nextInt();
     System.out.println("Enter columns : ");
