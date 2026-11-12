@@ -5,7 +5,7 @@ import java.util.*;
 public class MaxSum_Col {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    // Find the maximum sum among all rows.
+    // Find the maximum sum among all columns.
     System.out.println("Enter Rows : ");
     int rows = sc.nextInt();
     System.out.println("Enter column : ");
