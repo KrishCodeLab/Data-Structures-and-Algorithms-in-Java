@@ -34,8 +34,9 @@ public class Even_Odd {
     // print
     for (int i = 0; i < numbers.length; i++) {
       for (int j = 0; j < numbers[0].length; j++) {
-        System.out.println(numbers[i][j]);
+        System.out.print(numbers[i][j] + " ");
       }
+      System.out.println();
     }
 
     // function call
