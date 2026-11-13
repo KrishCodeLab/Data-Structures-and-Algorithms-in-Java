@@ -4,7 +4,6 @@ import java.util.*;
 
 public class Transpose_Matrix {
   public static void Transpose(int[][] array) {
-    Scanner sc = new Scanner(System.in);
     // total rows = exist column
     int rows = array[0].length;
     // total column = exist row
@@ -25,7 +24,6 @@ public class Transpose_Matrix {
       }
       System.out.println();
     }
-    sc.close();
   }
 
   public static void main(String[] args) {
