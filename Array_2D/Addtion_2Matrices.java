@@ -4,6 +4,10 @@ import java.util.*;
 
 public class Addtion_2Matrices {
   public static void Matrices_Addition(int[][] first, int[][] second) {
+    if (first.length != second.length || first[0].length != second[0].length) {
+      System.out.println("Both array must have same rows and columns : ");
+      return;
+    }
     int rows = first.length;
     int columns = first[0].length;
 
