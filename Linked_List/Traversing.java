@@ -32,9 +32,10 @@ class Traversing {
     Node temp = head;
 
     // traverse nodes using loop
-    while (temp.next != null) {
-      temp = temp.next;
+    while (temp != null) {
       System.out.print(temp.data + "-->");
+      temp = temp.next;
+
     }
     System.out.print("NULL");
   }
